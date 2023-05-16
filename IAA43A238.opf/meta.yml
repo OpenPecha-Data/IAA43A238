@@ -1,0 +1,18 @@
+id: IAA43A238
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:56.179901
+last_modified: 2023-01-04 11:27:56.179915
+source_metadata:
+  collections:
+  - Alak Zenkar Pema Ngödrup Rolwe Dorje
+  - Works of Tibetan Masters
+bases:
+  '5458':
+    title: A Synopsis of Guru Padmasambhava’s Life
+    base_file: 5458.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
